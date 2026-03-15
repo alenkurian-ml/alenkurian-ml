@@ -28,5 +28,5 @@ I use my GitHub to document my learning journey and projects as I continue devel
 To grow as an AI developer and contribute to meaningful research and intelligent systems in the future.
 
 Connect with me
-LinkedIn: linkedin.com/in/alenkurian-ml
-Kaggle: kaggle.com/alenkurian-ml
+LinkedIn: [linkedin.com/in/alenkurian-ml](https://www.linkedin.com/in/alenkurian-ml/)
+Kaggle: [kaggle.com/alenkurian-ml](https://www.kaggle.com/alenkurianml)
